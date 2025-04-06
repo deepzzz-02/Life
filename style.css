@@ -1,0 +1,17 @@
+body{
+    
+background-image: url('/login/2.jpg');
+background-size: cover;
+
+}
+h1{
+    padding: 10px;
+    margin: middle;
+}
+.log{
+    margin-bottom: 200;
+}
+.log fieldset{
+    align-content: center;
+    border: center;
+}
